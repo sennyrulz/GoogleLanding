@@ -1,0 +1,187 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: url(images/Lagos-facts.jpg);
+    height: 1500px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-family: "Host Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+
+
+.Navbar{
+    background-color: #ffffff00;
+}
+
+.Navbar ul{
+    display: flex;
+    margin: 25px 0 0 1150px;
+    padding: 0;
+    justify-content: space-evenly;
+    width: 8%;
+    
+}
+
+.Navbar li{
+    list-style: none;
+    font-size: 13px;
+    font-weight: 100;
+}
+
+.Navbar a{
+    text-decoration: none;
+    color: white;
+}
+
+.NavIcons{
+    margin: -18px 0 0 1280px;
+    display: flex;
+    justify-content: space-between;
+    width: 6%;
+}
+
+.HeroContainer{
+    margin: -200px 0 0 0;
+}
+
+.HeroContainer h1{
+    text-align: center;
+    font-size: 100px;
+    font-weight: 600;
+    padding: 280px 0 0 0;
+    color: white;
+}
+
+.HeroSearchBar{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    width: 700px;
+    height: 50px;
+    border-radius: 50px;
+    margin: -60px 0 0 350px;
+    border: none;
+}
+
+.HeroSearchBar input{
+    border: none;
+    width: 570px;
+    margin: 4px 0 0 -50px;
+    font-size: 14px;
+    font-weight: 100;
+    outline: none;
+    text-align: center;
+}
+
+.HeroSearchIcons1{
+    margin: -32px 0 0 370px;
+    display: flex;
+    justify-content: space-between;
+    width: 7%;
+}
+
+.HeroSearchIcons2{
+    margin: -23px 0 0 960px;
+    display: flex;
+    justify-content: space-between;
+    width: 7%;
+}
+
+.HeroSearchIcons3{
+    margin: -30px 0 0 1000px;
+    display: flex;
+    justify-content: space-between;
+    width: 7%;
+}
+
+.HeroUserIcon{
+    margin: -30px 0 0 1362px;
+    background-color: #626060;
+    color: #ffff;
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    border: none;
+    font-size: 35px;
+    font-weight: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.RecentSearchesIconContainer{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 60px 0 0 0;
+}
+
+
+.RecentSearchesIcon1{
+    background-color: #a0a0a0;
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    border: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.RecentSearchesIcon1 img{
+    height: 50px;
+    width: 45px;
+    margin: 6px 0 0 7px;
+}
+
+.RecentSearchesIcon2{
+    background-color: #a0a0a0;
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    border: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.RecentSearchesIcon2 img{
+    height: 50px;
+    width: 45px;
+    margin: 6px 0 0 7px;
+}
+
+
+.RecentSearchesIcon3{
+    background-color: #a0a0a0;
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    border: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.RecentSearchesIcon3 img{
+    height: 50px;
+    width: 45px;
+    margin: 6px 0 0 7px;
+}
+
+
+.RecentSearchesIcon4{
+    background-color: #a0a0a0;
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    border: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.RecentSearchesIcon4 img{
+    height: 50px;
+    width: 45px;
+    margin: 6px 0 0 7px;
+}
